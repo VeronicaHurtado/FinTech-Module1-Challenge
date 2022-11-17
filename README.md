@@ -33,15 +33,17 @@ Money in your Raiz Investment Account is invested into a mix of exchange traded 
 
 Additionally, the company strive to educate Australians on the importance of saving and investing via e-books, TV advertisements and their website.
 
+Something you may find interesting to read in the Australian FinTech website:
+[Montessori Australia partners with Raiz Invest to improve kids’ financial literacy](https://australianfintech.com.au/montessori-australia-partners-with-raiz-invest-to-improve-kids-financial-literacy/)
 
-[//]: # (* Who is the company's intended customer?  Is there any information about the market size of this set of customers?)
-
-[//]: # ()
-[//]: # (* What solution does this company offer that their competitors do not or cannot offer? &#40;What is the unfair advantage they utilise?&#41;)
+Over the years Raiz Investment has expanded their Application to target Australians at different stages of life:
+- Superannuation: Raiz Super, Superestate, SMSF
+- Raiz Rewards: Their cashback-like offer
+- Raiz Home Ownership
+- Raiz Kids
+- Offsetters: Service to reduce your carbon footprint
 
 ### Technology
-
-[//]: # (* Which technologies are they currently using, and how are they implementing them? &#40;This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.&#41;)
 
 One can infer from their Careers page, the roles of their employees, and other sources online, that the company's complex financial platform comprises a number of applications and services, supported by the following technological stack:
 - Secure Cloud Services with Amazon
@@ -52,27 +54,40 @@ One can infer from their Careers page, the roles of their employees, and other s
 - Both Android and iOS mobile native applications.
 
 ## Landscape
+Raiz Invest Limited is under the "Wealth Management" FinTech domain, and it is listed on the ASX under the Diversified Financials industry group. 
 
-[//]: # (* What domain of the financial industry is the company in?)
-
-[//]: # ()
 [//]: # (* What have been the major trends and innovations of this domain over the last 5–10 years?)
 
 [//]: # ()
 [//]: # (* What are the other major companies in this domain?)
-
+Other companies in the Wealth Management / Financial Services space include:
+- Spaceship
+- CommSec (Commonwealth Bank of Australia)
+- Stash
+- Acorns (Its American cousin)
+- ChangEd (Another round up offering)
+- Bundil
+- Cred
 
 ## Results
 
 [//]: # (* What has been the business impact of this company so far?)
 
-[//]: # ()
 [//]: # (* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?)
 
-[//]: # ()
-[//]: # (* How is your company performing relative to competitors in the same domain?)
+### Performance
 
-Winner of the Finnies 2022 EXCELLENCE IN WEALTH MANAGEMENT award.
+Despite the discounted price of their shares in comparison to their initial value, the company continues to grow with over AUD $1 billion Funds Under Management, presence in Malaysia and Indonesia, and planning to expand to the Vietnam and Thailand markets.
+
+Raiz Invest recently won the Finnies 2022 EXCELLENCE IN WEALTH MANAGEMENT award, competing against other Businesses in the same category:
+- DigitalX Asset Management
+- Fupay
+- Jaaims
+- Life Sherpa
+- Stockspot
+- Superhero
+- Tanggram
+- Unhedged
 
 ## Recommendations
 
@@ -88,7 +103,6 @@ Winner of the Finnies 2022 EXCELLENCE IN WEALTH MANAGEMENT award.
 [//]: # (* Why are these technologies appropriate for your solution?)
 
 ---
-## Sources
 
 [ˆ1]: Crunchbase [Individual Investor: Jeff Cruttenden](https://www.crunchbase.com/person/jeff-cruttenden)
 
@@ -96,6 +110,11 @@ Winner of the Finnies 2022 EXCELLENCE IN WEALTH MANAGEMENT award.
 
 [ˆ3]: ASX [Company: Raiz](https://www2.asx.com.au/markets/company/rzi)
 
-[ˆ4]: ???
+[ˆ4]: IntelligentInvestor [Raiz Invest Limited (ASX: RZI) - Float & IPO Details](https://www.intelligentinvestor.com.au/shares/asx-rzi/raiz-invest-limited/float)
 
 [ˆ5]: Raiz Invest [How Raiz Works](https://raizinvest.com.au/blog/how-raiz-works/)
+
+## Other Sources
+- Crunchbase [Organisation: Raiz Invest](https://www.crunchbase.com/organization/raiz-invest)
+- Raiz Invest [Our Team](https://raizinvest.com.au/about-us/#top)
+- Finder.com.au [Invest your spare change with Raiz Invest](https://www.finder.com.au/raiz-invest)
