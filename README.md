@@ -54,20 +54,33 @@ One can infer from their Careers page, the roles of their employees, and other s
 - Both Android and iOS mobile native applications.
 
 ## Landscape
-Raiz Invest Limited is under the "Wealth Management" FinTech domain, and it is listed on the ASX under the Diversified Financials industry group. 
+Raiz Invest Limited is under the "Wealth Management" FinTech domain, and it is listed on the ASX under the Diversified 
+Financials industry group. 
 
 [//]: # (* What have been the major trends and innovations of this domain over the last 5–10 years?)
+Traditionally, if you need to find someone who can provide advice on investments in Australia, the first step would be to 
+google for Financial Advisors in your area or perhaps asking a friend. Then, if you are cautious enough, you would visit 
+the [Financial advisers register](https://moneysmart.gov.au/financial-advice/financial-advisers-register) to make sure you 
+are dealing with a legitimate Business. Next, depending on the service you require, you have to take into consideration 
+the Fees, which may include: Financial plan fee, Implementation fee, Ongoing advice fees, Investment management fees, etc.
+You could end-up paying thousands of dollars each year in management fees that are deducted from your investment returns.
 
-[//]: # ()
-[//]: # (* What are the other major companies in this domain?)
-Other companies in the Wealth Management / Financial Services space include:
+After the Global Financial Crisis in 2008, Banks lost credibility and trust, which opened a window for new providers. 
+Bitcoin and other cryptocurrencies emerged. Additionally, the adoption of Smartphones has resulted in an increase demand 
+for online services. Cloud Services like AWS offering a pay-as-you-go approach have made Technologies more attainable for 
+new Companies. The Technologically literate Consumers no longer consider the traditional Wealth Management model good 
+enough. All these trends have translated into an increase of startup Businesses using Technology to change the game in the 
+financial market and compete against the giants by making these services more accessible.
+
+Other companies sharing the Wealth Management / Financial Services space with Raiz Invest include:
 - Spaceship
 - CommSec (Commonwealth Bank of Australia)
 - Stash
 - Acorns (Its American cousin)
 - ChangEd (Another round up offering)
-- Bundil
+- Stockspot
 - Cred
+- Six Park
 
 ## Results
 
@@ -102,6 +115,10 @@ Raiz Invest recently won the Finnies 2022 EXCELLENCE IN WEALTH MANAGEMENT award,
 [//]: # ()
 [//]: # (* Why are these technologies appropriate for your solution?)
 
+The Wealth Management domain is becoming increasingly more competitive. Investors are looking for digital solutions that are cross-platform (accessible via Website and Mobile devices), capable of integrating diverse services (e.g. Superannuation, Banking, Investment), with low brokerage fees, and lower minimum investment.
+
+While Raiz's application has won them numerous awards over the years, this Business will have to continue monitoring the Customers trends and demands for more features.
+
 ---
 
 [ˆ1]: Crunchbase [Individual Investor: Jeff Cruttenden](https://www.crunchbase.com/person/jeff-cruttenden)
@@ -114,7 +131,10 @@ Raiz Invest recently won the Finnies 2022 EXCELLENCE IN WEALTH MANAGEMENT award,
 
 [ˆ5]: Raiz Invest [How Raiz Works](https://raizinvest.com.au/blog/how-raiz-works/)
 
+[ˆ6]: PWC [Asset & Wealth Management Revolution](https://www.pwc.com/jg/en/publications/asset-and-wealth-management-revolution.html)
+
 ## Other Sources
 - Crunchbase [Organisation: Raiz Invest](https://www.crunchbase.com/organization/raiz-invest)
 - Raiz Invest [Our Team](https://raizinvest.com.au/about-us/#top)
 - Finder.com.au [Invest your spare change with Raiz Invest](https://www.finder.com.au/raiz-invest)
+- FinTech Australia [Finnies 2022 Finalists & Winners](https://www.thefinnies.org.au/finnies-2022-finalists-winners/)
