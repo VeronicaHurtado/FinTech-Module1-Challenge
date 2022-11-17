@@ -7,7 +7,7 @@ Raiz Invest is a micro investment platform that operates in Australia, Indonesia
 Formerly known as Acorns Grow Australia the company was founded in Feb 2016 as a joint venture between the American FinTech start-up Acorns Inc and the Australian company [Instreet Investments](https://www.instreet.com.au).
 
 ### Early beginnings
-According to Crunchbase, Jeffrey Cruttenden co-founded Acorns with his father Walter Cruttenden in 2012 to ==radically simplify and democratise investing== [ˆ1]
+According to Crunchbase, Jeffrey Cruttenden co-founded Acorns with his father Walter Cruttenden in 2012 to "radically simplify and democratise investing" [ˆ1]
 >"While in college, Jeff realised that most of his classmates were not able to come up with the lump sum needed to meet minimum balance requirements. Acorns was hatched as an investment application to allow people to easily invest their spare change into diversified portfolios."
 
 ### Expanding to Australia
@@ -57,7 +57,6 @@ One can infer from their Careers page, the roles of their employees, and other s
 Raiz Invest Limited is under the "Wealth Management" FinTech domain, and it is listed on the ASX under the Diversified 
 Financials industry group. 
 
-[//]: # (* What have been the major trends and innovations of this domain over the last 5–10 years?)
 Traditionally, if you need to find someone who can provide advice on investments in Australia, the first step would be to 
 google for Financial Advisors in your area or perhaps asking a friend. Then, if you are cautious enough, you would visit 
 the [Financial advisers register](https://moneysmart.gov.au/financial-advice/financial-advisers-register) to make sure you 
@@ -84,9 +83,16 @@ Other companies sharing the Wealth Management / Financial Services space with Ra
 
 ## Results
 
-[//]: # (* What has been the business impact of this company so far?)
+The most common metrics used by these companies to measure success are:
+- Funds Under Management (FUM)
+- The number of monthly active customers in Australia
+- The number of monthly active customers in other markets
+- Customer sign ups 
+- Number of investment accounts
 
-[//]: # (* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?)
+>Since launching in 2016 Raiz has achieved solid growth, amassing more than 3.05 million downloads,
+over 3,026,000 signups, and over 665,000 active monthly customers with over A$1 billion Funds under
+Management as at 31 August 2022. [ˆ7]
 
 ### Performance
 
@@ -104,22 +110,16 @@ Raiz Invest recently won the Finnies 2022 EXCELLENCE IN WEALTH MANAGEMENT award,
 
 ## Recommendations
 
-[//]: # (* If you were to advise the company, what products or services would you suggest they offer? &#40;This could be something that a competitor offers, or use your imagination!&#41;)
+The Wealth Management domain is becoming increasingly more competitive. Investors are looking for digital solutions that 
+are cross-platform (accessible via Website and Mobile devices), capable of integrating diverse services (e.g. 
+Superannuation, Banking, Investment, Payments), with low brokerage fees, and lower minimum investment.
 
-[//]: # ()
-[//]: # (* Why do you think that offering this product or service would benefit the company?)
+While Raiz's application has won them numerous awards over the years, this Business will have to continue monitoring the 
+Customers trends and demands for more features.
 
-[//]: # ()
-[//]: # (* What technologies would this additional product or service utilise?)
+Expanding to 
 
-[//]: # ()
-[//]: # (* Why are these technologies appropriate for your solution?)
-
-The Wealth Management domain is becoming increasingly more competitive. Investors are looking for digital solutions that are cross-platform (accessible via Website and Mobile devices), capable of integrating diverse services (e.g. Superannuation, Banking, Investment), with low brokerage fees, and lower minimum investment.
-
-While Raiz's application has won them numerous awards over the years, this Business will have to continue monitoring the Customers trends and demands for more features.
-
----
+## Footnotes
 
 [ˆ1]: Crunchbase [Individual Investor: Jeff Cruttenden](https://www.crunchbase.com/person/jeff-cruttenden)
 
@@ -133,8 +133,11 @@ While Raiz's application has won them numerous awards over the years, this Busin
 
 [ˆ6]: PWC [Asset & Wealth Management Revolution](https://www.pwc.com/jg/en/publications/asset-and-wealth-management-revolution.html)
 
+[ˆ7]: Raiz Invest [ASX Release - 5 September 2022](https://company-announcements.afr.com/asx/rzi/0ffdef32-2ca4-11ed-bb16-c2834bcf8268.pdf)
+
 ## Other Sources
 - Crunchbase [Organisation: Raiz Invest](https://www.crunchbase.com/organization/raiz-invest)
 - Raiz Invest [Our Team](https://raizinvest.com.au/about-us/#top)
 - Finder.com.au [Invest your spare change with Raiz Invest](https://www.finder.com.au/raiz-invest)
 - FinTech Australia [Finnies 2022 Finalists & Winners](https://www.thefinnies.org.au/finnies-2022-finalists-winners/)
+- ASIC [Financial Advisers Register](https://asic.gov.au/for-finance-professionals/afs-licensees/financial-advisers-register/)
