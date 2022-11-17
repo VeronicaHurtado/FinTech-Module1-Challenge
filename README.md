@@ -132,7 +132,7 @@ Customers trends and demands for more features.
 
 [^7]: Raiz Invest [ASX Release - 5 September 2022](https://company-announcements.afr.com/asx/rzi/0ffdef32-2ca4-11ed-bb16-c2834bcf8268.pdf)
 
-## Other Sources
+## Sources
 - Crunchbase [Organisation: Raiz Invest](https://www.crunchbase.com/organization/raiz-invest)
 - Raiz Invest [Our Team](https://raizinvest.com.au/about-us/#top)
 - Finder.com.au [Invest your spare change with Raiz Invest](https://www.finder.com.au/raiz-invest)
