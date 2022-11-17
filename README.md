@@ -7,7 +7,7 @@ Raiz Invest is a micro investment platform that operates in Australia, Indonesia
 Formerly known as Acorns Grow Australia the company was founded in Feb 2016 as a joint venture between the American FinTech start-up Acorns Inc and the Australian company [Instreet Investments](https://www.instreet.com.au).
 
 ### Early beginnings
-According to Crunchbase, Jeffrey Cruttenden co-founded Acorns with his father Walter Cruttenden in 2012 to "radically simplify and democratise investing" [ˆ1]
+According to Crunchbase, Jeffrey Cruttenden co-founded Acorns with his father Walter Cruttenden in 2012 to "radically simplify and democratise investing" [^1]
 >"While in college, Jeff realised that most of his classmates were not able to come up with the lump sum needed to meet minimum balance requirements. Acorns was hatched as an investment application to allow people to easily invest their spare change into diversified portfolios."
 
 ### Expanding to Australia
@@ -16,11 +16,11 @@ The joint venture with Instreet Investments, co-founded by George Lucas and Bren
 ### From Acorns to Raiz
 ![Acorns logo](images/Acorns-logo.png) ![Acorns logo](images/arrow-right.png) ![Raiz logo](images/Raiz-logo.png)
 
-The subsequent rebrand to Raiz Invest in 2018 was part of a strategy to move away from the US Acorns brand and develop a financial product tailored towards the Australian market. In May 2018 the company announced its Public Offering providing their customers with priority access to shares issued at $1.80, with a total valuation of approx. $119 million, and successfully raising $15.12 million. [ˆ2] 
+The subsequent rebrand to Raiz Invest in 2018 was part of a strategy to move away from the US Acorns brand and develop a financial product tailored towards the Australian market. In May 2018 the company announced its Public Offering providing their customers with priority access to shares issued at $1.80, with a total valuation of approx. $119 million, and successfully raising $15.12 million. [^2] 
 
-Raiz Invest was first listed on the Australian Securities Exchange (ASX) on the 21s of June 2018. [ˆ3]
+Raiz Invest was first listed on the Australian Securities Exchange (ASX) on the 21s of June 2018. [^3]
 
-As of November 2022, Raiz Invest has raised $16 million, and its current share price ($0.47) represents a 73.89% discount to its original price. [ˆ4]
+As of November 2022, Raiz Invest has raised $16 million, and its current share price ($0.47) represents a 73.89% discount to its original price. [^4]
 
 
 ## Business Activities
@@ -92,7 +92,7 @@ The most common metrics used by these companies to measure success are:
 
 >Since launching in 2016 Raiz has achieved solid growth, amassing more than 3.05 million downloads,
 over 3,026,000 signups, and over 665,000 active monthly customers with over A$1 billion Funds under
-Management as at 31 August 2022. [ˆ7]
+Management as at 31 August 2022. [^7]
 
 ### Performance
 
@@ -117,23 +117,20 @@ Superannuation, Banking, Investment, Payments), with low brokerage fees, and low
 While Raiz's application has won them numerous awards over the years, this Business will have to continue monitoring the 
 Customers trends and demands for more features.
 
-Expanding to 
 
-## Footnotes
+[^1]: Crunchbase [Individual Investor: Jeff Cruttenden](https://www.crunchbase.com/person/jeff-cruttenden)
 
-[ˆ1]: Crunchbase [Individual Investor: Jeff Cruttenden](https://www.crunchbase.com/person/jeff-cruttenden)
+[^2]: Raiz Invest [ASX Announcements](https://raizinvest.com.au/investors/asx-announcements/)
 
-[ˆ2]: Raiz Invest [ASX Announcements](https://raizinvest.com.au/investors/asx-announcements/)
+[^3]: ASX [Company: Raiz](https://www2.asx.com.au/markets/company/rzi)
 
-[ˆ3]: ASX [Company: Raiz](https://www2.asx.com.au/markets/company/rzi)
+[^4]: IntelligentInvestor [Raiz Invest Limited (ASX: RZI) - Float & IPO Details](https://www.intelligentinvestor.com.au/shares/asx-rzi/raiz-invest-limited/float)
 
-[ˆ4]: IntelligentInvestor [Raiz Invest Limited (ASX: RZI) - Float & IPO Details](https://www.intelligentinvestor.com.au/shares/asx-rzi/raiz-invest-limited/float)
+[^5]: Raiz Invest [How Raiz Works](https://raizinvest.com.au/blog/how-raiz-works/)
 
-[ˆ5]: Raiz Invest [How Raiz Works](https://raizinvest.com.au/blog/how-raiz-works/)
+[^6]: PWC [Asset & Wealth Management Revolution](https://www.pwc.com/jg/en/publications/asset-and-wealth-management-revolution.html)
 
-[ˆ6]: PWC [Asset & Wealth Management Revolution](https://www.pwc.com/jg/en/publications/asset-and-wealth-management-revolution.html)
-
-[ˆ7]: Raiz Invest [ASX Release - 5 September 2022](https://company-announcements.afr.com/asx/rzi/0ffdef32-2ca4-11ed-bb16-c2834bcf8268.pdf)
+[^7]: Raiz Invest [ASX Release - 5 September 2022](https://company-announcements.afr.com/asx/rzi/0ffdef32-2ca4-11ed-bb16-c2834bcf8268.pdf)
 
 ## Other Sources
 - Crunchbase [Organisation: Raiz Invest](https://www.crunchbase.com/organization/raiz-invest)
